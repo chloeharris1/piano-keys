@@ -13,6 +13,10 @@ The game functions by using DOM events in JavaScript.
 
 ![screenshot](./screenshot.png)
 
+## Credits
+
+Piano Favicon from [Freepik](https://www.flaticon.com/free-icon/piano_570549?term=piano&page=1&position=2&page=1&position=2&related_id=570549&origin=tag)
+
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
 
