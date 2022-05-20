@@ -11,7 +11,7 @@ The game functions by using DOM events in JavaScript.
 
 ## Snapshot 
 
-![screenshot](./)
+![screenshot](./screenshot.png)
 
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
